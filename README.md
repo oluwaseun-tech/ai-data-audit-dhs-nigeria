@@ -16,7 +16,9 @@ Nigeria DHS 2018 – Individual Recode (IR) dataset
 From The DHS Program
 
 ## Visuals
-See the link above
+![Regional Distribution](./visuals/Insights 3.JPG)
+![Urban vs Rural](./visuals/Insight 2.JPG)
+![Education Distribution](./visuals/Insight 1.JPG)
 
 ## Report
-Kindly find the attached above
+[Read Full Report](./report/AI_Data_Audit_Report.pdf)
