@@ -1,2 +1,22 @@
-# ai-data-audit-dhs-nigeria
-Data audit of Nigeria DHS dataset to identify bias and AI system risk
+# When Data Fails: Auditing Nigerian Health Survey Data for AI Risk
+
+## Overview
+This project examines how structural imbalances in real-world healthcare data can influence the behavior of AI systems. Using the Nigeria DHS 2018 dataset, the analysis focuses on how differences in region, living context, and education shape what models learn and where they may struggle.
+
+## Key Insights
+Uneven regional distribution influences learned patterns
+Rural-heavy data introduces context sensitivity
+Education distribution limits behavioral diversity
+
+## Why This Matters
+AI systems learn from data as it is. When that data is uneven, system performance may vary across populations, even if overall metrics appear strong.
+
+## Dataset
+Nigeria DHS 2018 – Individual Recode (IR) dataset
+From The DHS Program
+
+## Visuals
+See the link above
+
+## Report
+Kindly find the attached above
