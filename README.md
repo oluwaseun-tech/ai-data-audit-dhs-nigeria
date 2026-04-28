@@ -17,13 +17,13 @@ From The DHS Program
 
 ## Visuals
 ### Regional Distribution
-![Regional Distribution](./visuals/insight_3.jpg)
+![Regional Distribution](./visuals/insight_3.JPG)
 
 ### Urban vs Rural
-![Urban vs Rural](./visuals/insight_2.jpg)
+![Urban vs Rural](./visuals/insight_2.JPG)
 
 ### Education Distribution
-![Education Distribution](./visuals/insight_1.jpg)
+![Education Distribution](./visuals/insight_1.JPG)
 
 ## Report
 [Read Full Report](./report/AI_Data_Audit_Report.pdf)
