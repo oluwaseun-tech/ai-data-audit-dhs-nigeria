@@ -25,5 +25,5 @@ From The DHS Program
 ### Education Distribution
 ![Education Distribution](./visuals/insight_1.JPG)
 
-## Report
-[Read Full Report](./report/AI_Data_Audit_Report.pdf)
+## Full Report
+[Read the Full Report](./AI_Data_Audit_Report.pdf)
